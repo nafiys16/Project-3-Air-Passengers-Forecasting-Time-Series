@@ -1,6 +1,12 @@
 # Project-3-Air-Passengers-Forecasting-Time-Series-.ipynb
 
-(1)
+(1) Business Understanding
+
+(2) Import Library & Data
+
+(3) Data Preparation
+
+(4) Exploratory Data Analysis
 
 (5) Model Development
 
